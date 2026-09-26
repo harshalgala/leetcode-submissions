@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/harshalgala/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-46-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-47-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -52,6 +52,7 @@
 | 1295 | [Find Numbers With Even Number Of Digits](Easy/1295-find-numbers-with-even-number-of-digits/) | `Easy` | [`Python`](Easy/1295-find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.py) |
 | 1413 | [Minimum Value To Get Positive Step By Step Sum](Easy/1413-minimum-value-to-get-positive-step-by-step-sum/) | `Easy` | [`Python`](Easy/1413-minimum-value-to-get-positive-step-by-step-sum/minimum-value-to-get-positive-step-by-step-sum.py) |
 | 1768 | [Merge Strings Alternately](Easy/1768-merge-strings-alternately/) | `Easy` | [`Python`](Easy/1768-merge-strings-alternately/merge-strings-alternately.py) |
+| 1807 | [Evaluate The Bracket Pairs Of A String](Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | `Medium` | [`Python`](Medium/1807-evaluate-the-bracket-pairs-of-a-string/evaluate-the-bracket-pairs-of-a-string.py) |
 | 2678 | [Number Of Senior Citizens](Easy/2678-number-of-senior-citizens/) | `Easy` | [`Python`](Easy/2678-number-of-senior-citizens/number-of-senior-citizens.py) |
 | 2942 | [Find Words Containing Character](Easy/2942-find-words-containing-character/) | `Easy` | [`Python`](Easy/2942-find-words-containing-character/find-words-containing-character.py) |
 | 3024 | [Type Of Triangle](Easy/3024-type-of-triangle/) | `Easy` | [`Python`](Easy/3024-type-of-triangle/type-of-triangle.py) |
