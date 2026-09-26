@@ -3,7 +3,7 @@
 **Curated Data Structures and Algorithms Solutions** organized by problem ID and difficulty.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-DSA_Solutions-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/harshalgala/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-45-brightgreen)](#-problem-catalog)
+[![Problems Solved](https://img.shields.io/badge/Problems_Solved-46-brightgreen)](#-problem-catalog)
 
 ---
 
@@ -33,6 +33,7 @@
 | 134 | [Gas Station](Medium/0134-gas-station/) | `Medium` | [`C++`](Medium/0134-gas-station/gas-station.cpp) |
 | 143 | [Reorder List](Medium/0143-reorder-list/) | `Medium` | [`C++`](Medium/0143-reorder-list/reorder-list.cpp) |
 | 151 | [Reverse Words In A String](Medium/0151-reverse-words-in-a-string/) | `Medium` | [`C++`](Medium/0151-reverse-words-in-a-string/reverse-words-in-a-string.cpp) |
+| 175 | [Combine Two Tables](Easy/0175-combine-two-tables/) | `Easy` | [`SQL`](Easy/0175-combine-two-tables/combine-two-tables.sql) |
 | 192 | [Word Frequency](Medium/0192-word-frequency/) | `Medium` | — |
 | 202 | [Happy Number](Easy/0202-happy-number/) | `Easy` | [`Java`](Easy/0202-happy-number/happy-number.java) |
 | 205 | [Isomorphic Strings](Easy/0205-isomorphic-strings/) | `Easy` | [`C++`](Easy/0205-isomorphic-strings/isomorphic-strings.cpp) |
